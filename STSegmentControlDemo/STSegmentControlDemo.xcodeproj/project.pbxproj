@@ -104,10 +104,10 @@
 		773A7F3A1BFB0561002D3061 /* STSegmentControlDemo */ = {
 			isa = PBXGroup;
 			children = (
-				773A7F3E1BFB0561002D3061 /* AppDelegate.h */,
-				773A7F3F1BFB0561002D3061 /* AppDelegate.m */,
 				773A7F6E1BFB05B9002D3061 /* STSegmentControl.h */,
 				773A7F6F1BFB05B9002D3061 /* STSegmentControl.m */,
+				773A7F3E1BFB0561002D3061 /* AppDelegate.h */,
+				773A7F3F1BFB0561002D3061 /* AppDelegate.m */,
 				773A7F411BFB0561002D3061 /* ViewController.h */,
 				773A7F421BFB0561002D3061 /* ViewController.m */,
 				773A7F441BFB0561002D3061 /* Main.storyboard */,
