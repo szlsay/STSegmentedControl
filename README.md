@@ -4,3 +4,4 @@
 #
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
 
+![](file:///Users/rkxt_ios/Documents/segment.gif)
