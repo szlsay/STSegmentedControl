@@ -1,9 +1,5 @@
 //
-//  AppDelegate.m
-//  STSegmentControlDemo
-//
-//  Created by shentian on 15/11/17.
-//  Copyright © 2015年 ST. All rights reserved.
+//  Created by https://github.com/STShenZhaoliang/STSegmentedControl.git on 16/01/10
 //
 
 #import "AppDelegate.h"
